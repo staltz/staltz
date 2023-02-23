@@ -6,4 +6,4 @@ I work with JavaScript, TypeScript, peer-to-peer networks, user interfaces, reac
 
 As a writer, [my blog](https://staltz.com) has articles on open source, the future of the internet, commentary on cybereconomics, and peer-to-peer systems.
 
-<img src="https://stats.quine.sh/staltz/topics-over-time?theme=light" width="540px">
+<a href="https://quine.sh"><img src="https://stats.quine.sh/staltz/topics-over-time?theme=light" width="540px"></a>
