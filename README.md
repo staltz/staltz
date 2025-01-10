@@ -1,6 +1,6 @@
 **👋 Hi! I'm Andre Staltz**
 
-Senior Software Engineer at [Socket](https://github.com/SocketDev/)
+*Senior Software Engineer at [Socket](https://github.com/SocketDev/)*
 
 I work with JavaScript, TypeScript, peer-to-peer networks, user interfaces, reactive programming, and React Native. I have published or maintained 300+ libraries and tools, such as [Node.js Mobile](https://nodejs-mobile.github.io/), [Cycle.js](https://github.com/cyclejs/cyclejs), [Callbags](https://github.com/callbag/callbag), [SSB utilities](https://www.npmjs.com/search?q=ssb), [React Native utilities](https://github.com/staltz?tab=repositories&q=react-native&type=source&language=&sort=), and others. My latest project was [Manyverse](https://manyver.se), an open source app for the peer-to-peer social network [SSB](https://ssbc.github.io/scuttlebutt-protocol-guide/).
 
